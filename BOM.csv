@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 ESP32 ESP32-S3,1,Amazon,$10.53,$10.53,https://amzn.in/d/09kmaNOj
 MPU6050 breakout (GY-521),1,Amazon,$2.82,$2.82,https://amzn.in/d/0dRkJBcB
+VL53L1X breakout,1,Amazon,$13.13,$13.13,https://amzn.in/d/07vVcy4p
 Estimated total shipping,1,,,$0.00,
